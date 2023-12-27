@@ -22,8 +22,7 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/LEGEND-AI/LEGENDBOT/blob/main/LICENSE)   
 ------
 ## Status Of Bot 
-<p align="left">
-<a href="https://github.com/LEGEND-AI/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+
   
 ------
   
@@ -72,8 +71,9 @@ Bot Link Will Soon Provide
 -------
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/CH_KO1wim2o)
+
 <h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀</h2> 
-ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
+bad userbot 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/badmunda98/BAD_SPAM_BOT_OP"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 -------
